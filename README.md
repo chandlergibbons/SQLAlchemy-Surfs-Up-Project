@@ -1,3 +1,3 @@
 # SQLAlchemy Surfs Up Project
 
-[]!(Surf.gif)
+![](Surf.gif)
