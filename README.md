@@ -28,7 +28,7 @@ For this project I took a SQLite dataset about Honolulu, Hawaii and with SQLAlch
 
 5. I then utilized MatPlotLib to plot the results using the DataFrame plot method.
 
-![](hist.png)
+![](hist2.png)
 
 6. Lastly, I used Pandas to calcualte the summary statistics for the precipitation data
 
@@ -40,7 +40,9 @@ For this project I took a SQLite dataset about Honolulu, Hawaii and with SQLAlch
 2. Next I designed a query to find the most active stations (i.e. which stations have the most rows?). To do this I first listed the stations and observation counts in descending order. Then I calculated which station id has the highest number of observations. Using the most active station id, I then calculated the lowest, highest, and average temperature.
 
 
-6. Next I designed a query to retrieve the last 12 months of temperature observation data (TOBS). to 
+6. Next I designed a query to retrieve the last 12 months of temperature observation data (TOBS) and filter by the station with the highest number of observations. I ploted the results as a histogram.
+
+![](hist.png)
 
 
 
