@@ -29,6 +29,8 @@ For this project I took a SQLite dataset about Honolulu, Hawaii and with SQLAlch
 5. I then utilized MatPlotLib to plot the results using the DataFrame plot method.
 
 
+6. Lastly, I used Pandas to calcualte the summary statistics for the precipitation data
+
 
 
 
