@@ -12,7 +12,7 @@ For this project I took a SQLite dataset about Honolulu, Hawaii and with SQLAlch
 
 3. I then linked Python to the database by creating an SQLAlchemy session.
 
-Precipitation Analysis
+**Precipitation Analysis**
 
 1. First I started by finding the most recent date in the data set.
 
