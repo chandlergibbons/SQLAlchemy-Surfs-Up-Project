@@ -52,9 +52,17 @@ I created routes for the app.
 
 1. Home page that lists all the routes avalable
 
-2. for the percipitation route I converted my query results to a dictionary using date as the key and prcp as the value. I then returned a JSON version of this dictionary.
+2. For the percipitation route I converted my query results to a dictionary using date as the key and prcp as the value. I then returned a JSON version of this dictionary.
 
-3. 
+3. For the stations route I returned a JSON list of stations from the dataset.
+
+4. For the TOBS route I first queried the dates and temperature observations of the most active station for the last year of data. Then I returned a JSON list of temperature observations (TOBS) for the previous year.
+
+5. I then created a start route that takes a start date and returns a MIN temp, AVG temp, and MAX temp for all dates greater than and equal to the start date.
+
+6. I also created a start end route that takes both a start and end date and for dates between the start and end date inclusive returns a MIN temp, AVG temp, and MAX temp.
+
+
 
 
 
