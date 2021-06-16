@@ -44,6 +44,8 @@ For this project I took a SQLite dataset about Honolulu, Hawaii and with SQLAlch
 
 ![](hist.png)
 
+**Flask API Climate App**
+
 
 
 
