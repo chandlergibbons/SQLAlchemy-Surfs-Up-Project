@@ -52,6 +52,9 @@ I created routes for the app.
 
 1. Home page that lists all the routes avalable
 
+2. for the percipitation route I converted my query results to a dictionary using date as the key and prcp as the value. I then returned a JSON version of this dictionary.
+
+3. 
 
 
 
