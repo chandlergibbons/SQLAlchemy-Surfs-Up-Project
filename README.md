@@ -46,7 +46,15 @@ For this project I took a SQLite dataset about Honolulu, Hawaii and with SQLAlch
 
 **Flask API Climate App**
 
-For the last step in this project I designed a Flask API based on the queries that you have just listed above.
+For the next step in this project I designed a Flask API based on the queries that I have just listed above.
+
+I created routes for the app.
+
+1. Home page that lists all the routes avalable
+
+
+
+
 
 
 
