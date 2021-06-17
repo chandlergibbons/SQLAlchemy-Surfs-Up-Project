@@ -72,16 +72,4 @@ I then went back to my Jupyter notebook and with Pandas preformed a Temperature 
 
 3. I then used an independend t test because a paired t test requires equal sample sizes which we dont have, to determine whether the difference in the means, if any, is statistically significant.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+FINDINGS: The pvalue here is really small so the probability that the means of these two sets are diferant by chance is really small meaning we reject the null hypothesis.
