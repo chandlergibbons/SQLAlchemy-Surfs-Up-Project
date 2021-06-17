@@ -70,8 +70,7 @@ I then went back to my Jupyter notebook and with Pandas preformed a Temperature 
 
 2. Next Step in my temperature analysis of Hawaii weather stations was to identify the average temperature in June and December at all stations across all available years in the dataset. The obpjective here was to discover if there is a meaningful difference between the temperature in June and December.
 
-
-
+3. I then used an independend t test because a paired t test requires equal sample sizes which we dont have, to determine whether the difference in the means, if any, is statistically significant.
 
 
 
