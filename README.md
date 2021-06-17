@@ -66,6 +66,10 @@ I created routes for the app.
 
 I then went back to my Jupyter notebook and with Pandas preformed a Temperature Analysis on the stations in Hawaii.
 
+1. To Do this I first converted the date column format from string to datetime, set the date column as the DataFrame index, and droped the date column.
+
+2. Next Step in my temperature analysis of Hawaii weather stations was to identify the average temperature in June and December at all stations across all available years in the dataset. The obpjective here was to discover if there is a meaningful difference between the temperature in June and December.
+
 
 
 
