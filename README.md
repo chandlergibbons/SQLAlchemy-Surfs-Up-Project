@@ -73,3 +73,13 @@ I then went back to my Jupyter notebook and with Pandas preformed a Temperature 
 3. I then used an independend t test because a paired t test requires equal sample sizes which we dont have, to determine whether the difference in the means, if any, is statistically significant.
 
 FINDINGS: The pvalue here is really small so the probability that the means of these two sets are diferant by chance is really small meaning we reject the null hypothesis.
+
+4. I also looked at the historical weather of the dates August first to August seventh to find out what the temperature has previously looked like.
+
+5. I then utilized a function that will take the input of a year month and date in the %Y-%m-%d format, and returns the minimum, average, and maximum temperatures for that range of dates.
+
+6. I then used this function to get results for the previous year
+
+7. I then ploted the min, avg, and max temperature from my previous year query as a bar chart.
+
+
